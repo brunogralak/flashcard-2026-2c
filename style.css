@@ -24,7 +24,13 @@ body {
 }
 
 h1 {
-  color: #.cartao-interno {
+  color: yellowgreen
+}
+  
+  
+  
+  
+  .cartao-interno {
   position: relative;
   transition: transform 0.8s;
   transform-style: preserve-3d;  
